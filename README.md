@@ -1,0 +1,1 @@
+# Hackintosh Opencore 0.6.3 for Gigabyte B460M Aorus Pro - macOS(>=10.15.7) 
